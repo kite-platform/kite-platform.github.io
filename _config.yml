@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Histrix
+description: Track, Analyse, Improve
+logo: ./logo.png
+show_downloads: "false"
